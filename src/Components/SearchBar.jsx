@@ -1,5 +1,5 @@
 import React, { useContext, useEffect, useRef } from "react";
-import SearchIcon from "../assets/search.png";
+import SearchIcon from "../assets/Search.png";
 import { SearchContext } from "../Context/SearchContext";
 import { useQuery } from "react-query";
 import axios from "axios";
