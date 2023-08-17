@@ -2,6 +2,7 @@
 
 # Run npm run dev on your terminal
 
+# Live : https://suvaye-4yh2.vercel.app/
 # From leoankit35@gmail.com
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
